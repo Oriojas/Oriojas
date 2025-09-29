@@ -1,5 +1,8 @@
 # 💫 About Me:
-I’m a Data Scientist and Machine‑Learning Engineer who thrives on turning raw data into actionable insights.<br><br>* Analytics & ML – I build predictive models, end‑to‑end pipelines, and machine‑learning solutions using Python (pandas, scikit‑learn, PyTorch/TensorFlow) and R (tidyverse, caret, shiny).<br>Open Source Advocate – Curiosity drives me to contribute to the free‑software community and create reproducible, transparent code.<br>Blockchain & IPFS Enthusiast – I write Solidity smart contracts and pair them with IPFS storage for secure, decentralized data projects.<br>When I’m not coding, you’ll find me strumming a blues guitar or taking a walk to clear my head—both keep the creativity flowing.
+I’m a Data Scientist and Machine‑Learning Engineer who thrives on turning raw data into actionable insights.
+* **Analytics & ML** – I build predictive models, end‑to‑end pipelines, and machine‑learning solutions using Python (pandas, scikit‑learn, PyTorch/TensorFlow) and R (tidyverse, caret, shiny)
+* **Open Source Advocate** – Curiosity drives me to contribute to the free‑software community and create reproducible, transparent code.
+* **Blockchain & IPFS Enthusiast** – I write Solidity smart contracts and pair them with IPFS storage for secure, decentralized data projects.<br>When I’m not coding, you’ll find me strumming a blues guitar or taking a walk to clear my head—both keep the creativity flowing.
 
 
 ## 🌐 Socials:
