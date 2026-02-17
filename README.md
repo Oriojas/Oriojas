@@ -70,15 +70,15 @@ I'm a **Data Scientist & Machine-Learning Engineer** based in **Bogotá, Colombi
 ## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Oriojas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="Oscar's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Oriojas&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Oscar's GitHub Stats"/>
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oriojas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oriojas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Oriojas&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1&sideLabels=c9d1d9&dates=94a3b8" alt="GitHub Streak"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Oriojas&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <br>
@@ -95,7 +95,7 @@ I'm a **Data Scientist & Machine-Learning Engineer** based in **Bogotá, Colombi
 ## 🏆 &nbsp;GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Oriojas&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Oriojas&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
@@ -119,7 +119,7 @@ I'm a **Data Scientist & Machine-Learning Engineer** based in **Bogotá, Colombi
 ## 🔝 &nbsp;Top Contributed Repositories
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Oriojas&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9" alt="Top Contributed Repos"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=Oriojas&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos"/>
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
