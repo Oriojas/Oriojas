@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Transforming+raw+data+into+actionable+insights+%F0%9F%93%8A;Building+intelligent+ML+pipelines+%F0%9F%A4%96;Crafting+decentralized+solutions+%E2%9B%93;Open+source+advocate+%26+lifelong+learner+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=150&lines=Transforming+raw+data+into+actionable+insights+%F0%9F%93%8A;Building+intelligent+ML+pipelines+%F0%9F%A4%96;Crafting+decentralized+solutions+%E2%9B%93;Open+source+advocate+%26+lifelong+learner+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,7 +18,7 @@
 <!-- 👤 ABOUT ME                                                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/MartinSulev/MartinSulev/master/wave.gif" width="30"> &nbsp;About Me
+## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> &nbsp;About Me
 
 <img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif"/>
 
