@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=Transforming+raw+data+into+actionable+insights+%F0%9F%93%8A;Building+intelligent+ML+pipelines+%F0%9F%A4%96;Crafting+decentralized+solutions+%E2%9B%93;Open+source+advocate+%26+lifelong+learner+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Transforming+raw+data+into+actionable+insights+%F0%9F%93%8A;Building+intelligent+ML+pipelines+%F0%9F%A4%96;Crafting+decentralized+solutions+%E2%9B%93;Open+source+advocate+%26+lifelong+learner+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,7 +18,7 @@
 <!-- 👤 ABOUT ME                                                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Awal/Tarikul-Islam-Awal/main/assets/images/Hi.gif" width="30"> &nbsp;About Me
+## <img src="https://raw.githubusercontent.com/MartinSulev/MartinSulev/master/wave.gif" width="30"> &nbsp;About Me
 
 <img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif"/>
 
@@ -70,15 +70,15 @@ I'm a **Data Scientist & Machine-Learning Engineer** based in **Bogotá, Colombi
 ## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Oriojas&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Oscar's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Oriojas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Oscar's GitHub Stats"/>
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oriojas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Oriojas&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Oriojas&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oriojas&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <br>
@@ -92,10 +92,8 @@ I'm a **Data Scientist & Machine-Learning Engineer** based in **Bogotá, Colombi
 <!-- 🏆 TROPHIES                                                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-## 🏆 &nbsp;GitHub Trophies
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Oriojas&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Oriojas&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies"/>
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
