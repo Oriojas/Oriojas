@@ -20,7 +20,7 @@
 
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> &nbsp;About Me
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif"/>
+<img align="right" width="300" src="assets/coding_illustration.png" alt="coding illustration"/>
 
 I'm a **Data Scientist & Machine-Learning Engineer** based in **Bogotá, Colombia** 🇨🇴, passionate about turning complex data into real-world impact.
 
