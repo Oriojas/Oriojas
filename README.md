@@ -93,7 +93,7 @@ I'm a **Data Scientist & Machine-Learning Engineer** based in **Bogotá, Colombi
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Oriojas&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.zeabur.app/?username=Oriojas&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies"/>
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
