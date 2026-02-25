@@ -63,38 +63,7 @@ I'm a **Data Scientist & Machine-Learning Engineer** based in **Bogotá, Colombi
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 📊 GITHUB STATS                                                           -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-## 📊 &nbsp;GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Oriojas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Oscar's GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Oriojas&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oriojas&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<br>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Oriojas&bg_color=0d1117&color=6366f1&line=6366f1&point=e2e8f0&area=true&area_color=6366f1&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph"/>
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🏆 TROPHIES                                                               -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <img src="https://github-profile-trophy.zeabur.app/?username=Oriojas&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies"/>
-</div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 🐍 SNAKE ANIMATION                                                        -->
