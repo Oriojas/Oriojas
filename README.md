@@ -64,6 +64,13 @@ I'm a **Data Scientist & Machine-Learning Engineer** based in **Bogotá, Colombi
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🏆 TROPHIES                                                               -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://github-profile-trophy.zeabur.app/?username=Oriojas&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies"/>
+</div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 🐍 SNAKE ANIMATION                                                        -->
