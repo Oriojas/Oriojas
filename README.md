@@ -70,9 +70,9 @@ I'm a **Data Scientist & Machine-Learning Engineer** based in **Bogotá, Colombi
 ## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Oriojas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Oscar's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Oriojas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Oscar's GitHub Stats"/>
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Oriojas&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Oriojas&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages"/>
 </div>
 
 <br>
@@ -110,15 +110,7 @@ I'm a **Data Scientist & Machine-Learning Engineer** based in **Bogotá, Colombi
   </picture>
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🔝 TOP CONTRIBUTIONS                                                      -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-## 🔝 &nbsp;Top Contributed Repositories
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Oriojas&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos"/>
-</div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 🤝 CONNECT WITH ME                                                        -->
