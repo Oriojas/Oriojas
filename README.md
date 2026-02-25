@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=150&lines=Transforming+raw+data+into+actionable+insights+%F0%9F%93%8A;Building+intelligent+ML+pipelines+%F0%9F%A4%96;Crafting+decentralized+solutions+%E2%9B%93;Open+source+advocate+%26+lifelong+learner+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=140&lines=Transforming+raw+data+into+actionable+insights+%F0%9F%93%8A;Building+intelligent+ML+pipelines+%F0%9F%A4%96;Crafting+decentralized+solutions+%E2%9B%93;Open+source+advocate+%26+lifelong+learner+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -122,7 +122,6 @@ I'm a **Data Scientist & Machine-Learning Engineer** based in **Bogotá, Colombi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-riojas-data-scientist-ml-engineer)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Oriojas)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oriojas@gmail.com)
 
 </div>
 
