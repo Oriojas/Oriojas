@@ -75,7 +75,7 @@ I'm a **Data Scientist & Machine-Learning Engineer** based in **Bogotá, Colombi
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://trophy.benkou.dev/?username=Oriojas&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies"/>
+  <img src="https://raw.githubusercontent.com/Oriojas/Oriojas/output/trophy.svg" alt="GitHub Trophies"/>
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
@@ -112,10 +112,6 @@ I'm a **Data Scientist & Machine-Learning Engineer** based in **Bogotá, Colombi
 ---
 
 <br>
-
-<img src="https://komarev.com/ghpvc/?username=Oriojas&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" alt="Profile Views"/>
-
-<br><br>
 
 *"The goal is to turn data into information, and information into insight."* — Carly Fiorina
 
