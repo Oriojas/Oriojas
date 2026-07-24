@@ -71,11 +71,14 @@ I'm a **Data Scientist & Machine-Learning Engineer** based in **Bogotá, Colombi
 
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🏆 TROPHIES                                                               -->
+<!-- 📊 GITHUB STATS                                                            -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Oriojas/Oriojas/output/trophy.svg" alt="GitHub Trophies"/>
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Oriojas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=e2e8f0" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Oriojas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=e2e8f0" alt="Top Languages"/>
+  </a>
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
