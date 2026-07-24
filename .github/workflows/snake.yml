@@ -1,4 +1,4 @@
-name: Generate Assets
+name: Generate Snake Animation
 
 on:
   schedule:
@@ -24,22 +24,6 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-
-      - uses: denoland/setup-deno@v2
-        with:
-          deno-version: v2.x
-
-      - name: Generate trophy
-        env:
-          GITHUB_TOKEN1: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_TOKEN2: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          git clone --depth 1 https://github.com/ryo-ma/github-profile-trophy.git /tmp/trophy
-          cd /tmp/trophy
-          deno run --allow-net --allow-env --allow-read --allow-write render_svg.ts \
-            "${{ github.repository_owner }}" \
-            dist/trophy.svg \
-            tokyonight
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
