@@ -75,9 +75,32 @@ I'm a **Data Scientist & Machine-Learning Engineer** based in **Bogotá, Colombi
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <a href="https://github.com/stats-organization/github-stats-extended">
-    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Oriojas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=e2e8f0" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Oriojas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=e2e8f0" alt="Top Languages"/>
+  <img height="180" src="https://raw.githubusercontent.com/Oriojas/Oriojas/output/stats.svg" alt="GitHub Stats"/>
+  <img height="180" src="https://raw.githubusercontent.com/Oriojas/Oriojas/output/top-langs.svg" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Oriojas&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakLabel=e2e8f0" alt="GitHub Streak"/>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🚀 FEATURED PROJECTS                                                       -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## 🚀 &nbsp;Featured Projects
+
+<div align="center">
+  <a href="https://github.com/Oriojas/polkadot_hackathon">
+    <img height="120" src="https://raw.githubusercontent.com/Oriojas/Oriojas/output/pin-polkadot_hackathon.svg" alt="Polkadot Hackathon"/>
+  </a>
+  <a href="https://github.com/Oriojas/arbisepolia_scan">
+    <img height="120" src="https://raw.githubusercontent.com/Oriojas/Oriojas/output/pin-arbisepolia_scan.svg" alt="Arbitrum Sepolia Scan"/>
+  </a>
+  <a href="https://github.com/Oriojas/dnamasart_web">
+    <img height="120" src="https://raw.githubusercontent.com/Oriojas/Oriojas/output/pin-dnamasart_web.svg" alt="DNA+art Web"/>
+  </a>
+  <a href="https://github.com/Oriojas/solidity_basico_educateth">
+    <img height="120" src="https://raw.githubusercontent.com/Oriojas/Oriojas/output/pin-solidity_basico_educateth.svg" alt="Solidity Básico"/>
   </a>
 </div>
 
