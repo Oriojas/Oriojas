@@ -44,29 +44,11 @@ jobs:
           path: dist/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate pin card - polkadot_hackathon
-        uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2
-        with:
-          card: pin
-          options: "username=${{ github.repository_owner }}&repo=polkadot_hackathon&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=e2e8f0"
-          path: dist/pin-polkadot_hackathon.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate pin card - arbisepolia_scan
-        uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2
-        with:
-          card: pin
-          options: "username=${{ github.repository_owner }}&repo=arbisepolia_scan&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=e2e8f0"
-          path: dist/pin-arbisepolia_scan.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate pin card - solidity_basico_educateth
-        uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2
-        with:
-          card: pin
-          options: "username=${{ github.repository_owner }}&repo=solidity_basico_educateth&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=e2e8f0"
-          path: dist/pin-solidity_basico_educateth.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generate streak card
+        run: |
+          curl -fsSL --retry 3 --retry-delay 5 \
+            "https://streak-stats.demolab.com/?user=${{ github.repository_owner }}&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakLabel=e2e8f0" \
+            -o dist/streak.svg
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@df5cc2bfa78282ded844b354faee141f06b41865 # v4

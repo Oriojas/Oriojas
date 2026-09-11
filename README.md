@@ -80,7 +80,7 @@ I'm a **Data Scientist & Machine-Learning Engineer** based in **Bogotá, Colombi
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Oriojas&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakLabel=e2e8f0" alt="GitHub Streak"/>
+  <img src="https://raw.githubusercontent.com/Oriojas/Oriojas/output/streak.svg" alt="GitHub Streak"/>
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
@@ -89,17 +89,52 @@ I'm a **Data Scientist & Machine-Learning Engineer** based in **Bogotá, Colombi
 
 ## 🚀 &nbsp;Featured Projects
 
-<div align="center">
-  <a href="https://github.com/Oriojas/polkadot_hackathon">
-    <img height="120" src="https://raw.githubusercontent.com/Oriojas/Oriojas/output/pin-polkadot_hackathon.svg" alt="Polkadot Hackathon"/>
-  </a>
-  <a href="https://github.com/Oriojas/arbisepolia_scan">
-    <img height="120" src="https://raw.githubusercontent.com/Oriojas/Oriojas/output/pin-arbisepolia_scan.svg" alt="Arbitrum Sepolia Scan"/>
-  </a>
-  <a href="https://github.com/Oriojas/solidity_basico_educateth">
-    <img height="120" src="https://raw.githubusercontent.com/Oriojas/Oriojas/output/pin-solidity_basico_educateth.svg" alt="Solidity Básico"/>
-  </a>
-</div>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏆 [CO2 Guardian · Polkadot](https://github.com/Oriojas/polkadot_hackathon)
+Dispositivo IoT + blockchain para medir huella de carbono. **Ganador Polkadot Hackathon.**
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Polkadot-E6007A?style=flat-square&logo=polkadot&logoColor=white" alt="Polkadot"/>
+<img src="https://img.shields.io/badge/IoT-0D1117?style=flat-square" alt="IoT"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 [Arbitrum Sepolia Scan](https://github.com/Oriojas/arbisepolia_scan)
+Explorer API para consultar transacciones y datos on-chain en Arbitrum Sepolia.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Arbitrum-28A0F0?style=flat-square&logo=arbitrum&logoColor=white" alt="Arbitrum"/>
+<img src="https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3.js&logoColor=white" alt="Web3"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚛️ [Solidity Básico](https://github.com/Oriojas/solidity_basico_educateth)
+Prácticas de smart contracts: variables, mappings, loops y tokens ERC.
+
+<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity"/>
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" alt="Ethereum"/>
+<img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=flat-square" alt="OpenZeppelin"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 [Kii Hackathon](https://github.com/Oriojas/kii_hackathon)
+Proyecto construido para la Kii Hackathon en el ecosistema Web3.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3.js&logoColor=white" alt="Web3"/>
+
+</td>
+</tr>
+</table>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 🐍 SNAKE ANIMATION                                                        -->
