@@ -46,9 +46,11 @@ jobs:
 
       - name: Generate streak card
         run: |
+          mkdir -p dist
           curl -fsSL --retry 3 --retry-delay 5 \
             "https://streak-stats.demolab.com/?user=${{ github.repository_owner }}&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakLabel=e2e8f0" \
             -o dist/streak.svg
+          head -c 5 dist/streak.svg | grep -q "<svg" || { echo "streak.svg is not a valid SVG"; exit 1; }
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@df5cc2bfa78282ded844b354faee141f06b41865 # v4

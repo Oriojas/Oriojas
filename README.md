@@ -80,7 +80,7 @@ I'm a **Data Scientist & Machine-Learning Engineer** based in **Bogotá, Colombi
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Oriojas/Oriojas/output/streak.svg" alt="GitHub Streak"/>
+  <img src="https://raw.githubusercontent.com/Oriojas/Oriojas/output/streak.svg?v=2" alt="GitHub Streak"/>
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
