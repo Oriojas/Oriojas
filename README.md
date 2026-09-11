@@ -96,9 +96,6 @@ I'm a **Data Scientist & Machine-Learning Engineer** based in **Bogotá, Colombi
   <a href="https://github.com/Oriojas/arbisepolia_scan">
     <img height="120" src="https://raw.githubusercontent.com/Oriojas/Oriojas/output/pin-arbisepolia_scan.svg" alt="Arbitrum Sepolia Scan"/>
   </a>
-  <a href="https://github.com/Oriojas/dnamasart_web">
-    <img height="120" src="https://raw.githubusercontent.com/Oriojas/Oriojas/output/pin-dnamasart_web.svg" alt="DNA+art Web"/>
-  </a>
   <a href="https://github.com/Oriojas/solidity_basico_educateth">
     <img height="120" src="https://raw.githubusercontent.com/Oriojas/Oriojas/output/pin-solidity_basico_educateth.svg" alt="Solidity Básico"/>
   </a>
